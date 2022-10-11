@@ -1,0 +1,1 @@
+bot_token1 = "vk1.a.eZAxDSQfqzft0UYgPr3wb_1jQJ5HhJQynaXjSMEOE9yTiu1RnSzYBIPpbWkiKV8gpDw2w4Jjv2s9693SoSvLOFSW8dDx0Y_qcopV6xGHXMLhIpt-mCvO_3z7UH2nikhV1bmTRz5IUKkY-qQ0VBlKxeeC4SLP9bbe5ZHMox2z0cKRx7FaZ-ZxzXXLirLio1Jg"
